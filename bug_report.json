@@ -6,5 +6,7 @@
   "environment":"windows_10",
   "severity":"trivial",
   "priority":"low",
+  "expected result":"all correct",
+  "actual result":"all incorrect",
   "attach":"video"
 }
